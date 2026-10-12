@@ -12,13 +12,13 @@
   <circle cx="70" cy="239" r="4.5" fill="#3b82f6" />
   <text x="85" y="245" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Azure OpenAI / LLM solutions</text>
   <circle cx="70" cy="268" r="4.5" fill="#3b82f6" />
-  <text x="85" y="274" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">RAG / Azure AI Search</text>
+  <text x="85" y="274" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">RAG / GraphRAG / AI Search</text>
   <circle cx="70" cy="297" r="4.5" fill="#3b82f6" />
   <text x="85" y="303" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Agentic workflows and MCP</text>
   <circle cx="70" cy="326" r="4.5" fill="#3b82f6" />
   <text x="85" y="332" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">LangChain / Semantic Kernel</text>
   <circle cx="70" cy="355" r="4.5" fill="#3b82f6" />
-  <text x="85" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Human-in-the-loop / evaluation</text>
+  <text x="85" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">LLMOps / fine-tuning / eval</text>
   <rect x="415" y="160" width="350" height="224" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
   <rect x="415" y="160" width="350" height="6" rx="3" fill="#22c55e" />
   <text x="438" y="208" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Azure &amp; Cloud Data</text>
@@ -40,11 +40,11 @@
   <circle cx="812" cy="268" r="4.5" fill="#eab308" />
   <text x="827" y="274" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Transformers, BERT and NER</text>
   <circle cx="812" cy="297" r="4.5" fill="#eab308" />
-  <text x="827" y="303" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Document intelligence</text>
+  <text x="827" y="303" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Multimodal AI / computer vision</text>
   <circle cx="812" cy="326" r="4.5" fill="#eab308" />
   <text x="827" y="332" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">MLflow / model workflows</text>
   <circle cx="812" cy="355" r="4.5" fill="#eab308" />
-  <text x="827" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Analytics and data pipelines</text>
+  <text x="827" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Document intelligence / pipelines</text>
   <rect x="44" y="409" width="535" height="222" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
   <rect x="44" y="409" width="535" height="6" rx="3" fill="#a78bfa" />
   <text x="67" y="457" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Software Engineering &amp; Architecture</text>

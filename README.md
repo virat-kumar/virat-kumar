@@ -16,7 +16,7 @@
 
 ### About me
 
-I am a **Generative AI and applied machine-learning engineer** with experience designing and delivering enterprise AI solutions, and a strong interest in the **software and infrastructure behind dependable agents**. My work spans retrieval-augmented generation, tool-using workflows, Azure AI applications, data platforms, APIs, system design, local AI and developer tooling.
+I am a **Generative AI and applied machine-learning engineer** with experience designing and delivering enterprise AI solutions, and a strong interest in the **software and infrastructure behind dependable agents**. My work spans retrieval-augmented generation (RAG and GraphRAG), multimodal AI, tool-using workflows, Azure AI applications, data platforms, APIs, system design, local AI and developer tooling.
 
 I previously worked as a **Senior GenAI Engineer** and **Associate in Data Science** at Celebal Technologies (2020–2025). I completed a **Platinion IT Architect internship at Boston Consulting Group (Jun–Aug 2026)**. That internship concluded in August 2026. I am pursuing an **M.S. in Business Analytics & Artificial Intelligence** at the University of Texas at Dallas; I also hold a **B.Tech in Computer & Communication Engineering** from Manipal University Jaipur.
 
@@ -34,9 +34,9 @@ I previously worked as a **Senior GenAI Engineer** and **Associate in Data Scien
 
 | Area | Technologies and practices |
 |---|---|
-| **Generative AI / LLMs** | Azure OpenAI, Azure AI Search, RAG, prompt engineering, LangChain, Semantic Kernel, agentic workflows, tool calling, MCP, LLM application evaluation, human-in-the-loop systems |
+| **Generative AI / LLMs** | Azure OpenAI, Azure AI Search, RAG and GraphRAG, text-to-SQL, prompt engineering, LangChain, Semantic Kernel, agentic workflows, tool calling, MCP, LLM fine-tuning and LLMOps, application evaluation and human-in-the-loop systems |
 | **Cloud and enterprise AI** | Microsoft Azure, Microsoft Fabric, Azure Databricks, Microsoft Teams and SharePoint integrations, Power Apps, Entra ID, Key Vault, Azure VNets and API Management |
-| **Data engineering / MLOps** | SQL, PySpark, Delta Lake, Databricks SQL, MLflow, analytical pipelines, data modeling, model experimentation, machine learning, NLP, Transformers and BERT |
+| **Data engineering / MLOps** | SQL, PySpark, Delta Lake, Databricks SQL, MLflow, analytical pipelines, data modeling, model experimentation, predictive and prescriptive analytics, machine learning, multimodal AI, computer vision, NLP, Transformers and BERT |
 | **Software engineering** | Python, Go, JavaScript, TypeScript, FastAPI, REST APIs, React, modular backend design, system design, software architecture, integrations, CI/CD and GitHub Actions |
 | **Linux, Docker and developer infrastructure** | Ubuntu/Linux, Bash/Shell, systemd, Docker, Docker Compose, Git, Tailscale, monitoring and telemetry, Grafana, Prometheus, Playwright/browser automation, PTYs, WebRTC and local inference |
 | **Programming, query and web languages** | **Python · SQL · Go · JavaScript · TypeScript · Bash/Shell · R · HTML/CSS** |

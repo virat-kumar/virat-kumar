@@ -8,11 +8,11 @@ W,H=1180,823
 BG="#0d1117"; PANEL="#151b23"; STROKE="#30363d"; WHITE="#f0f6fc"; MUTED="#a4adb9"
 GROUPS=[
  ("Generative AI & Agents",44,160,350,224,"#3b82f6",[
-   "Azure OpenAI / LLM solutions","RAG / Azure AI Search","Agentic workflows and MCP","LangChain / Semantic Kernel","Human-in-the-loop / evaluation"]),
+   "Azure OpenAI / LLM solutions","RAG / GraphRAG / AI Search","Agentic workflows and MCP","LangChain / Semantic Kernel","LLMOps / fine-tuning / eval"]),
  ("Azure & Cloud Data",415,160,350,224,"#22c55e",[
    "Microsoft Azure & Fabric","Azure Databricks / SQL","PySpark / Delta Lake","Entra ID / Key Vault / APIM","SharePoint & Teams copilots"]),
  ("Machine Learning & MLOps",786,160,350,224,"#eab308",[
-   "Machine learning / NLP","Transformers, BERT and NER","Document intelligence","MLflow / model workflows","Analytics and data pipelines"]),
+   "Machine learning / NLP","Transformers, BERT and NER","Multimodal AI / computer vision","MLflow / model workflows","Document intelligence / pipelines"]),
  ("Software Engineering & Architecture",44,409,535,222,"#a78bfa",[
    "Python / FastAPI / REST APIs","Software & solution architecture","TypeScript / React applications","Git, CI/CD and GitHub Actions","System design / integrations"]),
  ("Linux, Containers & Observability",601,409,535,222,"#fb7185",[
