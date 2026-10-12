@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 823" width="1180" height="823" role="img" aria-labelledby="capability-title capability-description">
+  <title id="capability-title">Virat Kumar: GenAI engineering capability map</title>
+  <desc id="capability-description">Five colored panels describing generative AI and agents, Azure and cloud data platforms, machine learning and MLOps, software engineering and architecture, Linux containers and observability. Programming and scripting languages include Python, SQL, Go, JavaScript, TypeScript, Bash, R and HTML/CSS.</desc>
+  <rect x="1" y="1" width="1178" height="821" rx="19" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+  <text x="44" y="65" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">Engineering capability map</text>
+  <text x="44" y="102" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#a4adb9">GenAI first   /   Cloud to production   /   Software and infrastructure</text>
+  <rect x="44" y="126" width="1092" height="2" fill="#27323e" />
+  <rect x="44" y="160" width="350" height="224" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
+  <rect x="44" y="160" width="350" height="6" rx="3" fill="#3b82f6" />
+  <text x="67" y="208" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Generative AI &amp; Agents</text>
+  <circle cx="70" cy="239" r="4.5" fill="#3b82f6" />
+  <text x="85" y="245" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Azure OpenAI / LLM solutions</text>
+  <circle cx="70" cy="268" r="4.5" fill="#3b82f6" />
+  <text x="85" y="274" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">RAG / Azure AI Search</text>
+  <circle cx="70" cy="297" r="4.5" fill="#3b82f6" />
+  <text x="85" y="303" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Agentic workflows and MCP</text>
+  <circle cx="70" cy="326" r="4.5" fill="#3b82f6" />
+  <text x="85" y="332" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">LangChain / Semantic Kernel</text>
+  <circle cx="70" cy="355" r="4.5" fill="#3b82f6" />
+  <text x="85" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Human-in-the-loop / evaluation</text>
+  <rect x="415" y="160" width="350" height="224" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
+  <rect x="415" y="160" width="350" height="6" rx="3" fill="#22c55e" />
+  <text x="438" y="208" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Azure &amp; Cloud Data</text>
+  <circle cx="441" cy="239" r="4.5" fill="#22c55e" />
+  <text x="456" y="245" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Microsoft Azure &amp; Fabric</text>
+  <circle cx="441" cy="268" r="4.5" fill="#22c55e" />
+  <text x="456" y="274" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Azure Databricks / SQL</text>
+  <circle cx="441" cy="297" r="4.5" fill="#22c55e" />
+  <text x="456" y="303" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">PySpark / Delta Lake</text>
+  <circle cx="441" cy="326" r="4.5" fill="#22c55e" />
+  <text x="456" y="332" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Entra ID / Key Vault / APIM</text>
+  <circle cx="441" cy="355" r="4.5" fill="#22c55e" />
+  <text x="456" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">SharePoint &amp; Teams copilots</text>
+  <rect x="786" y="160" width="350" height="224" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
+  <rect x="786" y="160" width="350" height="6" rx="3" fill="#eab308" />
+  <text x="809" y="208" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Machine Learning &amp; MLOps</text>
+  <circle cx="812" cy="239" r="4.5" fill="#eab308" />
+  <text x="827" y="245" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Machine learning / NLP</text>
+  <circle cx="812" cy="268" r="4.5" fill="#eab308" />
+  <text x="827" y="274" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Transformers, BERT and NER</text>
+  <circle cx="812" cy="297" r="4.5" fill="#eab308" />
+  <text x="827" y="303" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Document intelligence</text>
+  <circle cx="812" cy="326" r="4.5" fill="#eab308" />
+  <text x="827" y="332" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">MLflow / model workflows</text>
+  <circle cx="812" cy="355" r="4.5" fill="#eab308" />
+  <text x="827" y="361" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Analytics and data pipelines</text>
+  <rect x="44" y="409" width="535" height="222" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
+  <rect x="44" y="409" width="535" height="6" rx="3" fill="#a78bfa" />
+  <text x="67" y="457" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Software Engineering &amp; Architecture</text>
+  <circle cx="70" cy="488" r="4.5" fill="#a78bfa" />
+  <text x="85" y="494" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Python / FastAPI / REST APIs</text>
+  <circle cx="70" cy="517" r="4.5" fill="#a78bfa" />
+  <text x="85" y="523" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Software &amp; solution architecture</text>
+  <circle cx="70" cy="546" r="4.5" fill="#a78bfa" />
+  <text x="85" y="552" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">TypeScript / React applications</text>
+  <circle cx="70" cy="575" r="4.5" fill="#a78bfa" />
+  <text x="85" y="581" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Git, CI/CD and GitHub Actions</text>
+  <circle cx="70" cy="604" r="4.5" fill="#a78bfa" />
+  <text x="85" y="610" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">System design / integrations</text>
+  <rect x="601" y="409" width="535" height="222" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
+  <rect x="601" y="409" width="535" height="6" rx="3" fill="#fb7185" />
+  <text x="624" y="457" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">Linux, Containers &amp; Observability</text>
+  <circle cx="627" cy="488" r="4.5" fill="#fb7185" />
+  <text x="642" y="494" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Ubuntu Linux / Bash / systemd</text>
+  <circle cx="627" cy="517" r="4.5" fill="#fb7185" />
+  <text x="642" y="523" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Docker / Compose / local inference</text>
+  <circle cx="627" cy="546" r="4.5" fill="#fb7185" />
+  <text x="642" y="552" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Tailscale and private networking</text>
+  <circle cx="627" cy="575" r="4.5" fill="#fb7185" />
+  <text x="642" y="581" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">MCP servers / browser automation</text>
+  <circle cx="627" cy="604" r="4.5" fill="#fb7185" />
+  <text x="642" y="610" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#f0f6fc">Monitoring / telemetry / WebRTC</text>
+  <rect x="44" y="654" width="1092" height="130" rx="13" fill="#151b23" stroke="#30363d" stroke-width="1.4" />
+  <rect x="44" y="654" width="1092" height="6" rx="3" fill="#38bdf8" />
+  <text x="66" y="698" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#f0f6fc">Programming and scripting languages</text>
+  <rect x="66" y="717" width="114" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="123.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">Python</text>
+  <rect x="190" y="717" width="88" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="234.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">SQL</text>
+  <rect x="288" y="717" width="70" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="323.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">Go</text>
+  <rect x="368" y="717" width="150" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="443.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">JavaScript</text>
+  <rect x="528" y="717" width="152" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="604.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">TypeScript</text>
+  <rect x="690" y="717" width="150" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="765.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">Bash / Shell</text>
+  <rect x="850" y="717" width="60" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="880.0" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">R</text>
+  <rect x="920" y="717" width="143" height="44" rx="9" fill="#222d3d" stroke="#355169" />
+  <text x="991.5" y="746" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#cbe9ff" text-anchor="middle">HTML / CSS</text>
+</svg>
