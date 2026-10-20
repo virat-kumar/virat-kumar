@@ -48,8 +48,8 @@ I previously worked as a **Senior GenAI Engineer** and **Associate in Data Scien
 <!-- LATEST_PUBLIC_START -->
 | Latest public repositories | Last updated (UTC) | What it contains |
 |---|---|---|
-| [terminal-mcp](https://github.com/virat-kumar/terminal-mcp) | 2026-10-11 | An MCP server that gives LLMs a real interactive PTY with observability and seamless human takeover. (fork) |
-| [mcp-observability-dashboard](https://github.com/virat-kumar/mcp-observability-dashboard) | 2026-10-10 | Unified analytics, health, and safe telemetry dashboard for OpenAI-connected MCP servers, with zero MCP code change |
+| [mcp-observability-dashboard](https://github.com/virat-kumar/mcp-observability-dashboard) | 2026-10-19 | Unified analytics, health, and safe telemetry dashboard for OpenAI-connected MCP servers, with zero MCP code change |
+| [terminal-mcp](https://github.com/virat-kumar/terminal-mcp) | 2026-10-19 | An MCP server that gives LLMs a real interactive PTY with observability and seamless human takeover. (fork) |
 | [playwright-mcp](https://github.com/virat-kumar/playwright-mcp) | 2026-09-06 | Playwright MCP server (fork) |
 <!-- LATEST_PUBLIC_END -->
 
