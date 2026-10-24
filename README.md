@@ -48,8 +48,8 @@ I previously worked as a **Senior GenAI Engineer** and **Associate in Data Scien
 <!-- LATEST_PUBLIC_START -->
 | Latest public repositories | Last updated (UTC) | What it contains |
 |---|---|---|
+| [college-majors-2026-earnings-debt-ml](https://github.com/virat-kumar/college-majors-2026-earnings-debt-ml) | 2026-10-24 | Reproducible college-major earnings prediction, student debt risk and AI/job outlook analysis (BUAN 6341 Group 2) |
 | [usa-real-estate-r-analysis](https://github.com/virat-kumar/usa-real-estate-r-analysis) | 2026-10-22 | Reproducible R analysis of U.S. property listings with official Kaggle download, renv, and Windows/Linux setup |
-| [college-majors-2026-earnings-debt-ml](https://github.com/virat-kumar/college-majors-2026-earnings-debt-ml) | 2026-10-22 | Reproducible college-major earnings prediction, student debt risk and AI/job outlook analysis (BUAN 6341 Group 2) |
 | [mcp-observability-dashboard](https://github.com/virat-kumar/mcp-observability-dashboard) | 2026-10-19 | Unified analytics, health, and safe telemetry dashboard for OpenAI-connected MCP servers, with zero MCP code change |
 <!-- LATEST_PUBLIC_END -->
 
