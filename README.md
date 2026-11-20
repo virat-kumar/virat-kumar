@@ -48,9 +48,9 @@ I previously worked as a **Senior GenAI Engineer** and **Associate in Data Scien
 <!-- LATEST_PUBLIC_START -->
 | Latest public repositories | Last updated (UTC) | What it contains |
 |---|---|---|
-| [chatgpt-as-llm](https://github.com/virat-kumar/chatgpt-as-llm) | 2026-11-14 | JavaScript Ollama adapter, inert MCP Docker service, and future browser extension |
 | [mcp-observability-dashboard](https://github.com/virat-kumar/mcp-observability-dashboard) | 2026-11-13 | Unified analytics, health, and safe telemetry dashboard for OpenAI-connected MCP servers, with zero MCP code change |
 | [college-majors-2026-earnings-debt-ml](https://github.com/virat-kumar/college-majors-2026-earnings-debt-ml) | 2026-11-09 | Reproducible college-major earnings prediction, student debt risk and AI/job outlook analysis (BUAN 6341 Group 2) |
+| [terminal-mcp](https://github.com/virat-kumar/terminal-mcp) | 2026-11-03 | An MCP server that gives LLMs a real interactive PTY with observability and seamless human takeover. (fork) |
 <!-- LATEST_PUBLIC_END -->
 
 <sub>This section refreshes from public GitHub repositories through a daily GitHub Action. Private projects are excluded, and forks are identified.</sub>
